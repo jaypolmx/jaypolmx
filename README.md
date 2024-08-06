@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaypolmx
-- 👀 I’m interested in developing healthcare software
-- 🌱 I’m currently learning Python, React Native, data analysis, distributed databases.
-- 💞️ I’m looking to collaborate on healthcare software development
+- 👀 I’m interested in creating easy to use, robust, healthcare software
+- 🌱 I’m currently learning Python, React Native, data analysis.
+- 💞️ I’m looking to collaborate on challenging projects
 - 📫 You can reach me on ing.pablo.barrientos@gmail.com
 
 <!---
